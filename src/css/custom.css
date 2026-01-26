@@ -13,6 +13,8 @@
   --ifm-color-primary-light: #353e4d;
   --ifm-color-primary-lighter: #374050;
   --ifm-color-primary-lightest: #3e495b;
+  --ifm-link-color: #6ca0ff; /* Changing the links colors */ 
+  --ifm-link-hover-color: #a8c4ff; /* Changing the links colors */
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
