@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Content Design',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_content-creator_vuqg.svg').default,
     description: (
       <>
         DITA Structured Authoring, Minimalism, Localization, API documentation, UX Writing
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Tools & Technologies',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_proud-coder_bivp.svg').default,
     description: (
       <>
         XMetaL, Oxygen, Docusaurus, Git, Markdown, HTML/CSS, JSON, Jira, ServiceNow, Confluence, ...
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Contact Information',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_profile-data_xkr9.svg').default,
     description: (
       <>
         <b>Name:</b> Tristelle Kervel <br/>
